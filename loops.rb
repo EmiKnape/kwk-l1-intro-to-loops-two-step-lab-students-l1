@@ -18,7 +18,7 @@
       days_left = 7 
       while days < 10 
       puts "Keep Coming to Camp!"
-      puts "You have #{days_left-1}"
+      puts "You have #{days_left} days left"
       days += 1 
       days_left -= 1
       end 
