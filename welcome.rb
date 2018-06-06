@@ -1,4 +1,4 @@
 def tv_welcome(greeting, name, welcome_message, room_number)
   puts "#{greeting}, #{name},#{welcome_message", #{room_number}"
-  end
-tv_welcome("hello", "Jonathan", "Thank you for staying at SpringHill Suites Phoenix Downtown","Room 234")
+end
+tv_welcome("hello", "Jonathan", "Thank you for staying at SpringHill Suites Phoenix Downtown","234")
