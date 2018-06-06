@@ -14,11 +14,12 @@
 # dance 
     
     def kwk_camp  
-      days= 0 
-      loop
-      "Come to Camp"
-      "You have_days left"
-      update days variable 
+      days = 2 
+      while days < 10 
+      "Keep Coming to Camp!"
+      days += 1 
+      end 
+      puts "Camp is Over :("
     end 
-    puts "Camp is over :("
-  end 
+    
+    kwk_camp
