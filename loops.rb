@@ -20,6 +20,7 @@
       puts "Keep Coming to Camp!"
       puts "You have #{days_left-1}"
       days += 1 
+      days_left -= 1
       end 
       puts "Camp is Over :("
     end 
