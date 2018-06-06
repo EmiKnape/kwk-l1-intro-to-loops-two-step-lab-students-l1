@@ -16,7 +16,7 @@
     def kwk_camp  
       days = 2 
       while days < 10 
-      "Keep Coming to Camp!"
+      puts "Keep Coming to Camp!"
       days += 1 
       end 
       puts "Camp is Over :("
