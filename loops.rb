@@ -13,3 +13,12 @@
 # end 
 # dance 
     
+    def kwk_camp  
+      days= 0 
+      loop
+      "Come to Camp"
+      "You have_days left"
+      update days variable 
+    end 
+    puts "Camp is over :("
+  end 
